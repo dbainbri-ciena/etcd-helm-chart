@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  etcd:
+  - apiVersion: v1
+    appVersion: 3.2.26
+    created: "2020-06-25T23:29:03.666382-07:00"
+    description: Distributed reliable key-value store for the most critical data of
+      a distributed system.
+    digest: 2a9f22ad4151399753db770153b941bd28422529c44f6b1f4c8282d26c3811b0
+    home: https://github.com/coreos/etcd
+    icon: https://raw.githubusercontent.com/coreos/etcd/master/logos/etcd-horizontal-color.png
+    maintainers:
+    - email: lachlan@deis.com
+      name: lachie83
+    name: etcd
+    sources:
+    - https://github.com/coreos/etcd
+    urls:
+    - etcd-0.7.5.tgz
+    version: 0.7.5
+generated: "2020-06-25T23:29:03.665576-07:00"
